@@ -83,9 +83,10 @@ This project is an end-to-end HR Payroll MIS system built using SQL and Excel. I
 ---
 
 ## 📷 Dashboard Preview
-(Add screenshot of Excel dashboard here)
+<img width="1567" height="412" alt="Screenshot 2026-05-11 095811" src="https://github.com/user-attachments/assets/9ea674dd-e2f8-4752-88c9-29ea483803b6" />
+
 
 ---
 
 ## 👨‍💻 Author
-Your Name
+Rohit Singh
